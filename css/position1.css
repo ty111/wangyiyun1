@@ -1,0 +1,40 @@
+.claer1{
+	zoom:1;
+}
+.clearf{
+	clear:both;
+}
+.float1{
+	float:left;
+}
+.float2{
+	float:right;
+}
+a{
+	text-decoration: none;
+	color: inherit;
+}
+ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+.t1{
+	margin-left:0;
+}
+input{
+	margin:0;
+	padding:0;
+	border:0;
+	background: none;
+	vertical-align: top;
+}
+button{
+	font-size:0.45rem;
+	line-height:1.14;
+	color:#333;
+	outline:0;
+}
+.sub1{
+	margin-top:-0.5rem;
+}

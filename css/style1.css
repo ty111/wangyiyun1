@@ -1,0 +1,13 @@
+#u-loading{
+	height:1.325rem;
+	/*line-height:0.5rem;*/
+	font-size:0.6rem;
+	color:#333;
+	text-align: center;
+}
+#u-loading > b{
+
+	display:inline-block;
+	width:7rem;
+	height:0.6rem;
+}
